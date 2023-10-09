@@ -1,0 +1,14 @@
+#fundo{
+    font-family:Comic Sans Ms ;
+    color: darkblue;
+    background-color: black;
+    text-align: center;
+    font-size: 26px;
+}
+button{
+    background-color: darkblue;
+    color: black;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 17px;
+}
